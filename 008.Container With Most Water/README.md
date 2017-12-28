@@ -4,4 +4,4 @@ Note: You may not slant the container and n is at least 2.
 # Link
 [Container With Most Water][1]
 
-[1]https://leetcode.com/problems/container-with-most-water/description/
+[1]: https://leetcode.com/problems/container-with-most-water/description/
